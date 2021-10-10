@@ -1,6 +1,5 @@
 # Test change by collaborator
 # Test change by owner
-# Test Reset
 import csv
 
 def writetocsv():
